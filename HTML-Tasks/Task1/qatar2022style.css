@@ -1,0 +1,28 @@
+ol li.group {
+    list-style-image: url(img/icons8-soccer-ball-32.png);
+    color: white;
+    
+}
+
+a {
+    background-color: white;
+    padding: 5px;
+}
+
+li {
+    margin-right: 60%;
+    padding: 8px;
+    background-color: #592a63;
+    list-style: inside;
+}
+
+
+h1{
+    margin-right: 65%;
+    margin-left: 50px;
+}
+
+a.h
+{
+    background-color: transparent;
+}

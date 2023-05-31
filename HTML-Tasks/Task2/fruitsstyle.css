@@ -1,0 +1,23 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ol {
+    margin-right: 60%;
+    padding: 10px;
+    list-style-position: inside;
+    background-color: #9eeda9;
+}
+
+li {
+    margin: 10px;
+    padding: 8px;
+    background-color: #63c684;
+    color: white;
+}
+
+span {
+    padding: 8px 15px;
+    color: white;
+    background-color: #359e46;
+}
