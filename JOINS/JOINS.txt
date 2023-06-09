@@ -1,0 +1,9 @@
+1. Books -> Press
+2. Books -> Authors
+3. Books -> Categories
+4. Books -> Press -> Authors
+
+С помощю 3-х таблиц
+5. Students -> Faculties
+6. Students -> Books
+7. Teachers -> Books
