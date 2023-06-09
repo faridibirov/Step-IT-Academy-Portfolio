@@ -1,0 +1,6 @@
+﻿interface IVideoPorts
+{
+
+    void Connect();
+
+}
