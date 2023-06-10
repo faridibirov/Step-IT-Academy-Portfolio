@@ -1,0 +1,6 @@
+﻿  FinalExam.cpp
+C:\Users\farid\source\repos\MY MUSIC APP\MY MUSIC APP\FinalExam.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\farid\source\repos\MY MUSIC APP\MY MUSIC APP\AdditionalFunctions.h(116,35): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+C:\Users\farid\source\repos\MY MUSIC APP\MY MUSIC APP\AdditionalFunctions.h(93): warning C4715: 'CheckDate': not all control paths return a value
+C:\Users\farid\source\repos\MY MUSIC APP\MY MUSIC APP\AdditionalFunctions.h(107): warning C4715: 'CheckName': not all control paths return a value
+  MY MUSIC APP.vcxproj -> C:\Users\farid\source\repos\MY MUSIC APP\x64\Debug\MY MUSIC APP.exe
