@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="azure.png" />
+    <None Remove="Dakirby309-Windows-8-Metro-Folders-OS-Windows-8-Metro.ico" />
+    <None Remove="Hero_BG.png" />
+    <None Remove="logo-windows-13475.png" />
+    <None Remove="nuget-logo-big.png" />
+    <None Remove="office.png" />
+    <None Remove="visualstudio.ico" />
+    <None Remove="windows-logo-silhouette.png" />
+    <None Remove="xamarin.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="azure.png" />
+    <Resource Include="Dakirby309-Windows-8-Metro-Folders-OS-Windows-8-Metro.ico" />
+    <Resource Include="Hero_BG.png" />
+    <Resource Include="logo-windows-13475.png" />
+    <Resource Include="nuget-logo-big.png" />
+    <Resource Include="office.png" />
+    <Resource Include="visualstudio.ico" />
+    <Resource Include="windows-logo-silhouette.png" />
+    <Resource Include="xamarin.png" />
+  </ItemGroup>
+
+</Project>

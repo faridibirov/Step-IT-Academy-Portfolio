@@ -1,0 +1,93 @@
+﻿<Window x:Class="Windows_learn.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Windows_learn"
+        mc:Ignorable="d"
+        Title="Windows Learn" Height="550" Width="1000" Icon="/Dakirby309-Windows-8-Metro-Folders-OS-Windows-8-Metro.ico">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition  Height="0.12*"/>
+            <RowDefinition  Height="0.1*"/>
+            <RowDefinition Height="0.12*"/>
+            <RowDefinition Height="0.125*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label Content="Introducing a new approach to learning" FontSize="25" Foreground="White" Background="#0F4D92" Grid.Row="0" />
+        <Label Content="Hands-on training that helps you advance your career and earn your spot at the top." FontSize="15" Foreground="White" Background="#0F4D92" Grid.Row="1" />
+        <Image   Source="/Hero_BG.png"  Stretch="UniformToFill" Grid.Row="0" Grid.RowSpan="2" />
+        <Label Content="Microsoft Docs" FontSize="30" FontWeight="Bold" Foreground="Black"  Grid.Row="2" />
+        <Label Content="doc.microsoft.com is the home for Microsoft documentation for end users, developers, and IT professionals.&#10;Check out quickstarts, tutorials, API reference, and code examples. " FontSize="13" FontWeight="Bold" Foreground="Black"  Grid.Row="3" />
+        <Button Width="115" Height="40" Margin="805,22,63,15" Content="Start learning >" Background="#0041C2" Foreground="White" FontSize="15" Grid.RowSpan="2"  ></Button>
+        <WrapPanel Orientation="Horizontal" Grid.Row="5">
+            <Button Width="230" Height="100" Margin="5, 5"  Background="#0078D7">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Image Grid.Column="0" Source="/windows-logo-silhouette.png" Stretch="UniformToFill" Width="30" Height="30" Margin="7"   />
+                    <Label Grid.Column="1" Content="Windows" Foreground="White" FontSize="25"   />
+                </Grid>
+            </Button>
+            <Button Width="230" Height="100" Margin="5, 5"  Background="#2596D1"  >
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Image Grid.Column="0" Source="/azure.png" Stretch="UniformToFill" Width="30" Height="30" Margin="7"   />
+                    <Label Grid.Column="1" Content="Azure" Foreground="White" FontSize="25"   />
+                </Grid>
+            </Button>
+            <Button Width="230" Height="100" Margin="5, 5"  Background="Purple">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="2.1*"/>
+                    </Grid.ColumnDefinitions>
+                    <Image Grid.Column="0" Source="/visualstudio.ico" Stretch="UniformToFill" Width="35" Height="35" Margin="7"   />
+                    <Label Grid.Column="1" Content="Visual Studio" Foreground="White" FontSize="25"   />
+                </Grid>
+            </Button>
+            <Button Width="230" Height="100" Margin="5, 5"  Background="#D54600">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Image Grid.Column="0" Source="/office.png" Stretch="UniformToFill" Width="30" Height="30" Margin="7"   />
+                    <Label Grid.Column="1" Content="Office" Foreground="White" FontSize="25"   />
+                </Grid>
+            </Button>
+            <Button Width="230" Height="100" Margin="5, 5" Content="ASP.NET" Background="Purple" Foreground="White" FontSize="25" ></Button>
+            <Button Width="230" Height="100" Margin="5, 5" Content="SQL" Background="#E30022" Foreground="White" FontSize="25" ></Button>
+            <Button Width="230" Height="100" Margin="5, 5" Content="Enterprice Mobility &#10;       + Security" Background="Green" Foreground="White" FontSize="20"   ></Button>
+            <Button Width="230" Height="100" Margin="5, 5"  Background="#175579">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Image Grid.Column="0" Source="/nuget-logo-big.png" Stretch="UniformToFill" Width="30" Height="30" Margin="7"   />
+                    <Label Grid.Column="1" Content="nuget" Foreground="White" FontSize="25"   />
+                </Grid>
+            </Button>
+            <Button Width="230" Height="100" Margin="5, 5"  Background="#2596D1" Foreground="White" FontSize="25" >
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="2*"/>
+                    </Grid.ColumnDefinitions>
+                    <Image Grid.Column="0" Source="/xamarin.png" Stretch="UniformToFill" Width="35" Height="30" Margin="7"   />
+                    <Label Grid.Column="1" Content="Xamarin" Foreground="White" FontSize="25"   />
+                </Grid>
+            </Button>
+            <Button Width="230" Height="100" Margin="5, 5" Content="Azure Bot Service" Background="#F400A1" Foreground="White" FontSize="25" ></Button>
+            <Button Width="230" Height="100" Margin="5, 5" Content="System Center" Background="#092256" Foreground="White" FontSize="25" ></Button>
+            <Button Width="230" Height="100" Margin="5, 5" Content="Microsoft Education" Background="#290C5E" Foreground="White" FontSize="25" ></Button>
+
+        </WrapPanel>
+    </Grid>
+</Window>
