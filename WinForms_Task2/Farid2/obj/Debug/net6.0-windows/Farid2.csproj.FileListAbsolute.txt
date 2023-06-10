@@ -1,0 +1,17 @@
+C:\Users\farid\source\repos\Farid2\Farid2\bin\Debug\net6.0-windows\Farid2.exe
+C:\Users\farid\source\repos\Farid2\Farid2\bin\Debug\net6.0-windows\Farid2.deps.json
+C:\Users\farid\source\repos\Farid2\Farid2\bin\Debug\net6.0-windows\Farid2.runtimeconfig.json
+C:\Users\farid\source\repos\Farid2\Farid2\bin\Debug\net6.0-windows\Farid2.dll
+C:\Users\farid\source\repos\Farid2\Farid2\bin\Debug\net6.0-windows\Farid2.pdb
+C:\Users\farid\source\repos\Farid2\Farid2\obj\Debug\net6.0-windows\Farid2.csproj.AssemblyReference.cache
+C:\Users\farid\source\repos\Farid2\Farid2\obj\Debug\net6.0-windows\Farid2.Form1.resources
+C:\Users\farid\source\repos\Farid2\Farid2\obj\Debug\net6.0-windows\Farid2.csproj.GenerateResource.cache
+C:\Users\farid\source\repos\Farid2\Farid2\obj\Debug\net6.0-windows\Farid2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farid\source\repos\Farid2\Farid2\obj\Debug\net6.0-windows\Farid2.AssemblyInfoInputs.cache
+C:\Users\farid\source\repos\Farid2\Farid2\obj\Debug\net6.0-windows\Farid2.AssemblyInfo.cs
+C:\Users\farid\source\repos\Farid2\Farid2\obj\Debug\net6.0-windows\Farid2.csproj.CoreCompileInputs.cache
+C:\Users\farid\source\repos\Farid2\Farid2\obj\Debug\net6.0-windows\Farid2.dll
+C:\Users\farid\source\repos\Farid2\Farid2\obj\Debug\net6.0-windows\refint\Farid2.dll
+C:\Users\farid\source\repos\Farid2\Farid2\obj\Debug\net6.0-windows\Farid2.pdb
+C:\Users\farid\source\repos\Farid2\Farid2\obj\Debug\net6.0-windows\Farid2.genruntimeconfig.cache
+C:\Users\farid\source\repos\Farid2\Farid2\obj\Debug\net6.0-windows\ref\Farid2.dll
