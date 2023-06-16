@@ -5,3 +5,8 @@ var app = builder.Build();
 app.MapDefaultControllerRoute();
 
 app.Run();
+
+class Person
+{
+    string Name { get; set; }
+}
