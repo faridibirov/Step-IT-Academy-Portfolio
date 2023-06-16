@@ -4,4 +4,4 @@ var app = builder.Build();
 
 app.MapDefaultControllerRoute();
 
-//app.Run();
+app.Run();
