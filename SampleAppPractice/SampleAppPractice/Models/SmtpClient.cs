@@ -4,9 +4,9 @@ namespace SampleAppPractice.Models
 {
     public class SmtpClient : IClient
     {
-        private readonly SmtpSettings _settings;
+        private readonly ISettings _settings;
 
-        public SmtpClient(SmtpSettings settings)
+        public SmtpClient(ISettings settings)
         {
             _settings = settings;
         }

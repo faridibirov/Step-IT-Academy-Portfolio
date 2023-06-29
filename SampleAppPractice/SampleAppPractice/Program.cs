@@ -5,6 +5,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<IMessanger, Messanger>();
 builder.Services.AddScoped<IFactory, MessageFactory>();
 builder.Services.AddScoped<IClient, SmtpClient>();
+builder.Services.AddScoped<ISettings, SmtpSettings>();
 builder.Services.AddScoped<SmtpSettings>(_=>
 new SmtpSettings()
 {
