@@ -5,6 +5,13 @@ namespace SampleAppPractice.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly IMessanger _messanger;
+
+        public HomeController(IMessanger messanger)
+        {
+            _messanger = messanger;
+        }
+
         public IActionResult Index()
         {
             return View();
@@ -13,17 +20,7 @@ namespace SampleAppPractice.Controllers
         [HttpPost]
         public IActionResult Index(string message)
         {
-
-            var messageFactory = new MessageFactory();
-            var settings = new SmtpSettings()
-            {
-                Host = "smtp.example.com",
-                Port = 25
-            };
-            var smtpClient = new SmtpClient(settings);
-            var messanger = new Messanger(smtpClient, messageFactory);
-
-            messanger.SendMessage(message, "admin@example.com");
+            _messanger.SendMessage(message, "admin@example.com");
 
             return View();
         }
