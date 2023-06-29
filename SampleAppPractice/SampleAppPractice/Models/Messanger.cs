@@ -2,10 +2,10 @@
 {
     public class Messanger : IMessanger
     {
-        private readonly SmtpClient _client;
-        private readonly MessageFactory _factory;
+        private readonly IClient _client;
+        private readonly IFactory _factory;
 
-        public Messanger(SmtpClient client, MessageFactory factory)
+        public Messanger(IClient client, IFactory factory)
         {
             _client = client;
             _factory = factory;
@@ -13,7 +13,7 @@
 
         public void SendMessage(string message, string user)
         {
-            SmtpMessage smtpMessage = _factory.Create(message);
+            IMessage smtpMessage = _factory.Create(message);
             _client.Send(smtpMessage);
         }
     }

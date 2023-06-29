@@ -3,8 +3,8 @@ using SampleAppPractice.Models;
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<IMessanger, Messanger>();
-builder.Services.AddScoped<MessageFactory>();
-builder.Services.AddScoped<SmtpClient>();
+builder.Services.AddScoped<IFactory, MessageFactory>();
+builder.Services.AddScoped<IClient, SmtpClient>();
 builder.Services.AddScoped<SmtpSettings>(_=>
 new SmtpSettings()
 {
