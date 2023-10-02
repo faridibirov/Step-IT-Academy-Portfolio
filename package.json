@@ -1,0 +1,23 @@
+{
+  "name": "create_react_from_scratch",
+  "version": "0.0.1",
+  "description": "Learning how to create without CRA",
+  "main": "src/index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faridibirov/Create_React_From_Scratch.git"
+  },
+  "keywords": [
+    "learn",
+    "react"
+  ],
+  "author": "Farid Dibirov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faridibirov/Create_React_From_Scratch/issues"
+  },
+  "homepage": "https://github.com/faridibirov/Create_React_From_Scratch#readme"
+}
