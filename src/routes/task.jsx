@@ -73,7 +73,7 @@ function Done({ task }) {
             : "Add to done"
         }
       >
-        {isDone ? "☑ " : "☐"}
+        {isDone ? "✅" : "☐"}
       </button>
       </fetcher.Form>
   );

@@ -110,6 +110,9 @@ form[action$="destroy"] button {
   flex-direction: column;
 }
 
+
+
+
 #sidebar > * {
   padding-left: 2rem;
   padding-right: 2rem;
@@ -169,6 +172,29 @@ form[action$="destroy"] button {
   position: absolute;
   left: 0.625rem;
   top: 0.75rem;
+}
+
+.filter-buttons {
+  display: flex; 
+  align-items: center; 
+  gap: 0.4rem; 
+  margin-top: 0.5rem; 
+}
+
+.filter-buttons label {
+  font-weight: bold;
+}
+
+#all {
+  color: orange;
+}
+
+#done {
+  color: green;
+}
+
+#reminded {
+  color: red;
 }
 
 @keyframes spin {

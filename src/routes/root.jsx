@@ -1,5 +1,5 @@
 import { Link, Outlet, NavLink, useLoaderData, Form, redirect, useNavigate, useSubmit } from "react-router-dom";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { getTasks, createTask } from "../tasks";
 
 export async function loader({ request }) {
@@ -19,6 +19,8 @@ function Root() {
   const { tasks, q } = useLoaderData();
   const navigation = useNavigate();
   const submit = useSubmit();
+
+  const [filter, setFilter] = useState("all");
 
   const searching =
 
@@ -62,44 +64,60 @@ function Root() {
             ></div>
           </Form>
           <Form method="post">
-            <button type="submit">New</button>
+            <button type="submit">Add</button>
           </Form>
         </div>
-        <nav>
-          {tasks.length ? (
-            <ul>
-              {tasks.map((task) => (
-                <li key={task.id}>
-                  <NavLink
-                    to={`tasks/${task.id}`}
-                    className={({ isActive, isPending }) =>
-                      isActive
-                        ? "active"
-                        : isPending
-                          ? "pending"
-                          : ""
-                    }
-                  >
-                    <Link to={`tasks/${task.id}`}>
-                      {task.task ? (
-                        <>
-                          {task.task}
-                        </>
-                      ) : (
-                        <i>No task name</i>
-                      )}{" "}
-                      {task.done && <span>☑</span>}
-                    </Link>
-                  </NavLink>
-                </li>
-              ))}
-            </ul>
-          ) : (
-            <p>
-              <i>No tasks</i>
-            </p>
-          )}
-        </nav>
+        <Form method="post">
+            <div className="filter-buttons">
+            <label>Show:</label>
+
+              <button type="button" id="all" onClick={() => setFilter("all")} className={filter === "all" ? "active" : ""} >All</button>
+              <button type="button" id="done" onClick={() => setFilter("done")} className={filter === "done" ? "active" : ""}>Done</button>
+              <button type="button" id="reminded" onClick={() => setFilter("reminded")} className={filter === "reminded" ? "active" : ""}>Reminded</button>
+            </div>
+          </Form>
+   <nav>
+      {tasks.length ? (
+        <ul>
+          {tasks
+            .filter((task) => {
+              if (filter === "all") return true;
+              if (filter === "done") return task.done;
+              if (filter === "reminded") return !task.done;
+              return false;
+            })
+            .map((task) => (
+              <li key={task.id}>
+                <NavLink
+                  to={`tasks/${task.id}`}
+                  className={({ isActive, isPending }) =>
+                    isActive
+                      ? "active"
+                      : isPending
+                      ? "pending"
+                      : ""
+                  }
+                >
+                  <Link to={`tasks/${task.id}`}>
+                    {task.task ? (
+                      <>
+                        {task.task}
+                      </>
+                    ) : (
+                      <i>No task name</i>
+                    )}{" "}
+                    {task.done && <span>✅</span>}
+                  </Link>
+                </NavLink>
+              </li>
+            ))}
+        </ul>
+      ) : (
+        <p>
+          <i>No tasks</i>
+        </p>
+      )}
+    </nav>
       </div>
       <div id="detail">
         <Outlet />
