@@ -39,6 +39,7 @@ function Root() {
   return (
     <>
       <div id="sidebar">
+      <h1>Checklist App by Farid</h1>
         <div>
           <Form id="search-form" role="search">
             <input

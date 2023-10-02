@@ -31,6 +31,7 @@ export default function EditTask() {
         <span>Description</span>
         <textarea
           name="notes"
+          placeholder="Enter here detailed information about your task"
           defaultValue={task.notes}
           rows={6}
         />

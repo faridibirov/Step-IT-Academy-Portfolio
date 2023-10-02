@@ -21,7 +21,7 @@ export default function Task() {
 
       <div>
         <h1>
-          {task.task ? (
+           {task.task ? (
             <>
               {task.task}
             </>
