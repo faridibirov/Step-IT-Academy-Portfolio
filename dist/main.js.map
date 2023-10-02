@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","mappings":";;;;;AAAAA,OAAO,CAACC,GAAG,CAAC,aAAa,CAAC,C","sources":["webpack://create_react_from_scratch/./src/index.tsx"],"sourcesContent":["console.log(\"hello world\")"],"names":["console","log"],"sourceRoot":""}
