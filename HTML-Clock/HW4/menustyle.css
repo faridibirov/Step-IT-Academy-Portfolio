@@ -1,0 +1,53 @@
+body {
+
+    background-color: gainsboro;
+}
+
+#menu {
+    list-style: inside;
+    font-family: sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    display: block;
+    transition: all 0.2s ease-in-out;
+    position: fixed;
+    height: 100vh;
+    top:0;
+    left:0;
+    background-color: #8a8a8a;
+    margin: 0px 0px 0px 0px;
+    width: 75px;
+}
+
+#menu li {
+    color: white;
+    padding: 20px;
+
+}
+
+#menu  span {
+
+    visibility: hidden;
+}
+
+
+#menu:hover   {
+    color: black;
+    width: 180px;
+}
+
+#menu:hover span  {
+ visibility: visible;
+}
+
+    #menu li:hover   {
+        width: 140px;
+    }
+
+
+div {
+    margin-left: 10%;
+    margin-top: -7%;
+    padding-bottom: 1px;
+    font-size: 20px;
+}
