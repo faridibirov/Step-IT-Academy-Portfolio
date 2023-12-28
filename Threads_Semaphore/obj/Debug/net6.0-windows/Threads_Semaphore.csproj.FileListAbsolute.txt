@@ -1,0 +1,17 @@
+C:\Users\farid\source\repos\Threads_Semaphore\Threads_Semaphore\bin\Debug\net6.0-windows\Threads_Semaphore.exe
+C:\Users\farid\source\repos\Threads_Semaphore\Threads_Semaphore\bin\Debug\net6.0-windows\Threads_Semaphore.deps.json
+C:\Users\farid\source\repos\Threads_Semaphore\Threads_Semaphore\bin\Debug\net6.0-windows\Threads_Semaphore.runtimeconfig.json
+C:\Users\farid\source\repos\Threads_Semaphore\Threads_Semaphore\bin\Debug\net6.0-windows\Threads_Semaphore.dll
+C:\Users\farid\source\repos\Threads_Semaphore\Threads_Semaphore\bin\Debug\net6.0-windows\Threads_Semaphore.pdb
+C:\Users\farid\source\repos\Threads_Semaphore\Threads_Semaphore\obj\Debug\net6.0-windows\Threads_Semaphore.csproj.AssemblyReference.cache
+C:\Users\farid\source\repos\Threads_Semaphore\Threads_Semaphore\obj\Debug\net6.0-windows\Threads_Semaphore.Form1.resources
+C:\Users\farid\source\repos\Threads_Semaphore\Threads_Semaphore\obj\Debug\net6.0-windows\Threads_Semaphore.csproj.GenerateResource.cache
+C:\Users\farid\source\repos\Threads_Semaphore\Threads_Semaphore\obj\Debug\net6.0-windows\Threads_Semaphore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farid\source\repos\Threads_Semaphore\Threads_Semaphore\obj\Debug\net6.0-windows\Threads_Semaphore.AssemblyInfoInputs.cache
+C:\Users\farid\source\repos\Threads_Semaphore\Threads_Semaphore\obj\Debug\net6.0-windows\Threads_Semaphore.AssemblyInfo.cs
+C:\Users\farid\source\repos\Threads_Semaphore\Threads_Semaphore\obj\Debug\net6.0-windows\Threads_Semaphore.csproj.CoreCompileInputs.cache
+C:\Users\farid\source\repos\Threads_Semaphore\Threads_Semaphore\obj\Debug\net6.0-windows\Threads_Semaphore.dll
+C:\Users\farid\source\repos\Threads_Semaphore\Threads_Semaphore\obj\Debug\net6.0-windows\refint\Threads_Semaphore.dll
+C:\Users\farid\source\repos\Threads_Semaphore\Threads_Semaphore\obj\Debug\net6.0-windows\Threads_Semaphore.pdb
+C:\Users\farid\source\repos\Threads_Semaphore\Threads_Semaphore\obj\Debug\net6.0-windows\Threads_Semaphore.genruntimeconfig.cache
+C:\Users\farid\source\repos\Threads_Semaphore\Threads_Semaphore\obj\Debug\net6.0-windows\ref\Threads_Semaphore.dll
