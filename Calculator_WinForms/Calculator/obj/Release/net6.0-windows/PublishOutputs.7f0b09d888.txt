@@ -1,0 +1,5 @@
+C:\Users\farid\Desktop\Calculator.exe
+C:\Users\farid\Desktop\Calculator.dll
+C:\Users\farid\Desktop\Calculator.deps.json
+C:\Users\farid\Desktop\Calculator.runtimeconfig.json
+C:\Users\farid\Desktop\Calculator.pdb

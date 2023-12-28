@@ -1,7 +1,0 @@
-C:\Users\farid\Desktop\Calculator.pdb
-C:\Users\farid\Desktop\D3DCompiler_47_cor3.dll
-C:\Users\farid\Desktop\PenImc_cor3.dll
-C:\Users\farid\Desktop\PresentationNative_cor3.dll
-C:\Users\farid\Desktop\vcruntime140_cor3.dll
-C:\Users\farid\Desktop\wpfgfx_cor3.dll
-C:\Users\farid\Desktop\Calculator.exe
