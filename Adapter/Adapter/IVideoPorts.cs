@@ -1,6 +1,0 @@
-﻿interface IVideoPorts
-{
-
-    void Connect();
-
-}
