@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "SqlConnectionString": "Data Source = DESKTOP-FARID; Integrated Security = True;   Initial Catalog = User;"
+  }
+
+}
