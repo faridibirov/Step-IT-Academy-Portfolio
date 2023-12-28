@@ -1,0 +1,68 @@
+C:\Users\dibi_yq66\source\repos\Copier\Copier\bin\Debug\net6.0-windows\Copier.exe
+C:\Users\dibi_yq66\source\repos\Copier\Copier\bin\Debug\net6.0-windows\Copier.deps.json
+C:\Users\dibi_yq66\source\repos\Copier\Copier\bin\Debug\net6.0-windows\Copier.runtimeconfig.json
+C:\Users\dibi_yq66\source\repos\Copier\Copier\bin\Debug\net6.0-windows\Copier.dll
+C:\Users\dibi_yq66\source\repos\Copier\Copier\bin\Debug\net6.0-windows\Copier.pdb
+C:\Users\dibi_yq66\source\repos\Copier\Copier\obj\Debug\net6.0-windows\Copier.csproj.AssemblyReference.cache
+C:\Users\dibi_yq66\source\repos\Copier\Copier\obj\Debug\net6.0-windows\Copier.Form1.resources
+C:\Users\dibi_yq66\source\repos\Copier\Copier\obj\Debug\net6.0-windows\Copier.csproj.GenerateResource.cache
+C:\Users\dibi_yq66\source\repos\Copier\Copier\obj\Debug\net6.0-windows\Copier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dibi_yq66\source\repos\Copier\Copier\obj\Debug\net6.0-windows\Copier.AssemblyInfoInputs.cache
+C:\Users\dibi_yq66\source\repos\Copier\Copier\obj\Debug\net6.0-windows\Copier.AssemblyInfo.cs
+C:\Users\dibi_yq66\source\repos\Copier\Copier\obj\Debug\net6.0-windows\Copier.csproj.CoreCompileInputs.cache
+C:\Users\dibi_yq66\source\repos\Copier\Copier\obj\Debug\net6.0-windows\Copier.dll
+C:\Users\dibi_yq66\source\repos\Copier\Copier\obj\Debug\net6.0-windows\refint\Copier.dll
+C:\Users\dibi_yq66\source\repos\Copier\Copier\obj\Debug\net6.0-windows\Copier.pdb
+C:\Users\dibi_yq66\source\repos\Copier\Copier\obj\Debug\net6.0-windows\Copier.genruntimeconfig.cache
+C:\Users\dibi_yq66\source\repos\Copier\Copier\obj\Debug\net6.0-windows\ref\Copier.dll
+C:\Users\dibi_yq66\Downloads\Copier\Copier\Copier\bin\Debug\net6.0-windows\Copier.exe
+C:\Users\dibi_yq66\Downloads\Copier\Copier\Copier\bin\Debug\net6.0-windows\Copier.deps.json
+C:\Users\dibi_yq66\Downloads\Copier\Copier\Copier\bin\Debug\net6.0-windows\Copier.runtimeconfig.json
+C:\Users\dibi_yq66\Downloads\Copier\Copier\Copier\bin\Debug\net6.0-windows\Copier.dll
+C:\Users\dibi_yq66\Downloads\Copier\Copier\Copier\bin\Debug\net6.0-windows\Copier.pdb
+C:\Users\dibi_yq66\Downloads\Copier\Copier\Copier\obj\Debug\net6.0-windows\Copier.csproj.AssemblyReference.cache
+C:\Users\dibi_yq66\Downloads\Copier\Copier\Copier\obj\Debug\net6.0-windows\Copier.Form1.resources
+C:\Users\dibi_yq66\Downloads\Copier\Copier\Copier\obj\Debug\net6.0-windows\Copier.csproj.GenerateResource.cache
+C:\Users\dibi_yq66\Downloads\Copier\Copier\Copier\obj\Debug\net6.0-windows\Copier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dibi_yq66\Downloads\Copier\Copier\Copier\obj\Debug\net6.0-windows\Copier.AssemblyInfoInputs.cache
+C:\Users\dibi_yq66\Downloads\Copier\Copier\Copier\obj\Debug\net6.0-windows\Copier.AssemblyInfo.cs
+C:\Users\dibi_yq66\Downloads\Copier\Copier\Copier\obj\Debug\net6.0-windows\Copier.csproj.CoreCompileInputs.cache
+C:\Users\dibi_yq66\Downloads\Copier\Copier\Copier\obj\Debug\net6.0-windows\Copier.dll
+C:\Users\dibi_yq66\Downloads\Copier\Copier\Copier\obj\Debug\net6.0-windows\refint\Copier.dll
+C:\Users\dibi_yq66\Downloads\Copier\Copier\Copier\obj\Debug\net6.0-windows\Copier.pdb
+C:\Users\dibi_yq66\Downloads\Copier\Copier\Copier\obj\Debug\net6.0-windows\Copier.genruntimeconfig.cache
+C:\Users\dibi_yq66\Downloads\Copier\Copier\Copier\obj\Debug\net6.0-windows\ref\Copier.dll
+D:\IT STEP\Системное программирование\Homework\Copiernew\Copier\Copier\obj\Debug\net6.0-windows\Copier.csproj.AssemblyReference.cache
+D:\IT STEP\Системное программирование\Homework\Copiernew\Copier\Copier\obj\Debug\net6.0-windows\Copier.Form1.resources
+D:\IT STEP\Системное программирование\Homework\Copiernew\Copier\Copier\obj\Debug\net6.0-windows\Copier.csproj.GenerateResource.cache
+D:\IT STEP\Системное программирование\Homework\Copiernew\Copier\Copier\obj\Debug\net6.0-windows\Copier.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT STEP\Системное программирование\Homework\Copiernew\Copier\Copier\obj\Debug\net6.0-windows\Copier.AssemblyInfoInputs.cache
+D:\IT STEP\Системное программирование\Homework\Copiernew\Copier\Copier\obj\Debug\net6.0-windows\Copier.AssemblyInfo.cs
+D:\IT STEP\Системное программирование\Homework\Copiernew\Copier\Copier\obj\Debug\net6.0-windows\Copier.csproj.CoreCompileInputs.cache
+D:\IT STEP\Системное программирование\Homework\Copiernew\Copier\Copier\obj\Debug\net6.0-windows\Copier.dll
+D:\IT STEP\Системное программирование\Homework\Copiernew\Copier\Copier\obj\Debug\net6.0-windows\refint\Copier.dll
+D:\IT STEP\Системное программирование\Homework\Copiernew\Copier\Copier\obj\Debug\net6.0-windows\Copier.pdb
+D:\IT STEP\Системное программирование\Homework\Copiernew\Copier\Copier\bin\Debug\net6.0-windows\Copier.exe
+D:\IT STEP\Системное программирование\Homework\Copiernew\Copier\Copier\bin\Debug\net6.0-windows\Copier.deps.json
+D:\IT STEP\Системное программирование\Homework\Copiernew\Copier\Copier\bin\Debug\net6.0-windows\Copier.runtimeconfig.json
+D:\IT STEP\Системное программирование\Homework\Copiernew\Copier\Copier\bin\Debug\net6.0-windows\Copier.dll
+D:\IT STEP\Системное программирование\Homework\Copiernew\Copier\Copier\bin\Debug\net6.0-windows\Copier.pdb
+D:\IT STEP\Системное программирование\Homework\Copiernew\Copier\Copier\obj\Debug\net6.0-windows\Copier.genruntimeconfig.cache
+D:\IT STEP\Системное программирование\Homework\Copiernew\Copier\Copier\obj\Debug\net6.0-windows\ref\Copier.dll
+D:\IT STEP\Системное программирование\Homework\Copier\Copier\bin\Debug\net6.0-windows\Copier.exe
+D:\IT STEP\Системное программирование\Homework\Copier\Copier\bin\Debug\net6.0-windows\Copier.deps.json
+D:\IT STEP\Системное программирование\Homework\Copier\Copier\bin\Debug\net6.0-windows\Copier.runtimeconfig.json
+D:\IT STEP\Системное программирование\Homework\Copier\Copier\bin\Debug\net6.0-windows\Copier.dll
+D:\IT STEP\Системное программирование\Homework\Copier\Copier\bin\Debug\net6.0-windows\Copier.pdb
+D:\IT STEP\Системное программирование\Homework\Copier\Copier\obj\Debug\net6.0-windows\Copier.csproj.AssemblyReference.cache
+D:\IT STEP\Системное программирование\Homework\Copier\Copier\obj\Debug\net6.0-windows\Copier.Form1.resources
+D:\IT STEP\Системное программирование\Homework\Copier\Copier\obj\Debug\net6.0-windows\Copier.csproj.GenerateResource.cache
+D:\IT STEP\Системное программирование\Homework\Copier\Copier\obj\Debug\net6.0-windows\Copier.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT STEP\Системное программирование\Homework\Copier\Copier\obj\Debug\net6.0-windows\Copier.AssemblyInfoInputs.cache
+D:\IT STEP\Системное программирование\Homework\Copier\Copier\obj\Debug\net6.0-windows\Copier.AssemblyInfo.cs
+D:\IT STEP\Системное программирование\Homework\Copier\Copier\obj\Debug\net6.0-windows\Copier.csproj.CoreCompileInputs.cache
+D:\IT STEP\Системное программирование\Homework\Copier\Copier\obj\Debug\net6.0-windows\Copier.dll
+D:\IT STEP\Системное программирование\Homework\Copier\Copier\obj\Debug\net6.0-windows\refint\Copier.dll
+D:\IT STEP\Системное программирование\Homework\Copier\Copier\obj\Debug\net6.0-windows\Copier.pdb
+D:\IT STEP\Системное программирование\Homework\Copier\Copier\obj\Debug\net6.0-windows\Copier.genruntimeconfig.cache
+D:\IT STEP\Системное программирование\Homework\Copier\Copier\obj\Debug\net6.0-windows\ref\Copier.dll
