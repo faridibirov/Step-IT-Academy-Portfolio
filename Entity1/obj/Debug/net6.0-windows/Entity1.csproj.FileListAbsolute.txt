@@ -1,0 +1,109 @@
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Entity1.exe
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Entity1.deps.json
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Entity1.runtimeconfig.json
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Entity1.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Entity1.pdb
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\obj\Debug\net6.0-windows\Entity1.csproj.AssemblyReference.cache
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\obj\Debug\net6.0-windows\Entity1.Form1.resources
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\obj\Debug\net6.0-windows\Entity1.csproj.GenerateResource.cache
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\obj\Debug\net6.0-windows\Entity1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\obj\Debug\net6.0-windows\Entity1.AssemblyInfoInputs.cache
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\obj\Debug\net6.0-windows\Entity1.AssemblyInfo.cs
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\obj\Debug\net6.0-windows\Entity1.csproj.CoreCompileInputs.cache
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\obj\Debug\net6.0-windows\Entity1.csproj.CopyComplete
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\obj\Debug\net6.0-windows\Entity1.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\obj\Debug\net6.0-windows\refint\Entity1.dll
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\obj\Debug\net6.0-windows\Entity1.pdb
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\obj\Debug\net6.0-windows\Entity1.genruntimeconfig.cache
+C:\Users\dibi_yq66\source\repos\Entity1\Entity1\obj\Debug\net6.0-windows\ref\Entity1.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Entity1.exe
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Entity1.deps.json
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Entity1.runtimeconfig.json
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Entity1.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Entity1.pdb
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\obj\Debug\net6.0-windows\Entity1.csproj.AssemblyReference.cache
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\obj\Debug\net6.0-windows\Entity1.Form1.resources
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\obj\Debug\net6.0-windows\Entity1.csproj.GenerateResource.cache
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\obj\Debug\net6.0-windows\Entity1.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\obj\Debug\net6.0-windows\Entity1.AssemblyInfoInputs.cache
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\obj\Debug\net6.0-windows\Entity1.AssemblyInfo.cs
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\obj\Debug\net6.0-windows\Entity1.csproj.CoreCompileInputs.cache
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\obj\Debug\net6.0-windows\Entity1.csproj.CopyComplete
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\obj\Debug\net6.0-windows\Entity1.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\obj\Debug\net6.0-windows\refint\Entity1.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\obj\Debug\net6.0-windows\Entity1.pdb
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\obj\Debug\net6.0-windows\Entity1.genruntimeconfig.cache
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\obj\Debug\net6.0-windows\ref\Entity1.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\Entity1\Entity1\Entity1\obj\Debug\net6.0-windows\Entity1.Properties.Resources.resources
