@@ -1,0 +1,122 @@
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\DZApp.exe
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\DZApp.deps.json
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\DZApp.runtimeconfig.json
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\DZApp.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\DZApp.pdb
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\obj\Debug\net6.0-windows\DZApp.csproj.AssemblyReference.cache
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\obj\Debug\net6.0-windows\DZApp.Form1.resources
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\obj\Debug\net6.0-windows\DZApp.csproj.GenerateResource.cache
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\obj\Debug\net6.0-windows\DZApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\obj\Debug\net6.0-windows\DZApp.AssemblyInfoInputs.cache
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\obj\Debug\net6.0-windows\DZApp.AssemblyInfo.cs
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\obj\Debug\net6.0-windows\DZApp.csproj.CoreCompileInputs.cache
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\obj\Debug\net6.0-windows\DZApp.csproj.CopyComplete
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\obj\Debug\net6.0-windows\DZApp.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\obj\Debug\net6.0-windows\refint\DZApp.dll
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\obj\Debug\net6.0-windows\DZApp.pdb
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\obj\Debug\net6.0-windows\DZApp.genruntimeconfig.cache
+C:\Users\dibi_yq66\source\repos\DZApp\DZApp\obj\Debug\net6.0-windows\ref\DZApp.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\DZApp.exe
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\DZApp.deps.json
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\DZApp.runtimeconfig.json
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\DZApp.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\DZApp.pdb
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Humanizer.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\obj\Debug\net6.0-windows\DZApp.csproj.AssemblyReference.cache
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\obj\Debug\net6.0-windows\DZApp.Form1.resources
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\obj\Debug\net6.0-windows\DZApp.csproj.GenerateResource.cache
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\obj\Debug\net6.0-windows\DZApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\obj\Debug\net6.0-windows\DZApp.AssemblyInfoInputs.cache
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\obj\Debug\net6.0-windows\DZApp.AssemblyInfo.cs
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\obj\Debug\net6.0-windows\DZApp.csproj.CoreCompileInputs.cache
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\obj\Debug\net6.0-windows\DZApp.csproj.CopyComplete
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\obj\Debug\net6.0-windows\DZApp.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\obj\Debug\net6.0-windows\refint\DZApp.dll
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\obj\Debug\net6.0-windows\DZApp.pdb
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\obj\Debug\net6.0-windows\DZApp.genruntimeconfig.cache
+D:\IT STEP\Технология доступа к базам данных ADO.NET\Homework\DZApp\DZApp\obj\Debug\net6.0-windows\ref\DZApp.dll
