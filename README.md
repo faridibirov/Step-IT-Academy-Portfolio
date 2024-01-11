@@ -9,11 +9,11 @@ Welcome to my GitHub repository! This repository contains various homework assig
 
 ### Minimal API Project
 - **Description:** A project demonstrating the creation of a Minimal API in ASP.NET.
-- **File(s):** [minimal_api_project]([link/to/minimal_api_project](https://github.com/faridibirov/ITStep-Academy/tree/ASP/Minimal%20API))
+- **File(s):** [minimal_api_project](https://github.com/faridibirov/ITStep-Academy/tree/ASP/Minimal%20API)
 
 ### To-Do List Web API
 - **Description:** A Web API project for managing to-do lists.
-- **File(s):** [todo_list_web_api]([link/to/todo_list_web_api](https://github.com/faridibirov/ITStep-Academy/tree/ASP/ToDo_WEB_API))
+- **File(s):** [todo_list_web_api](https://github.com/faridibirov/ITStep-Academy/tree/ASP/ToDo_WEB_API)
 
 ## C# .NET
 
