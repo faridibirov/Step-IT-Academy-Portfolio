@@ -19,133 +19,133 @@ Welcome to my GitHub repository! This repository contains various homework assig
 
 ### Design Patterns Homework
 - **Description:** Homework assignments related to various design patterns in C#.
-- **File(s):** [design_patterns_homework](link/to/design_patterns_homework)
+- **File(s):** [design_patterns_homework](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/C%23/Design_Patterns)
 
 ### Quiz Console App
 - **Description:** A console application for quizzes.
-- **File(s):** [quiz_console_app](link/to/quiz_console_app)
+- **File(s):** [quiz_console_app](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/C%23/QuizApp)
 
 ## C++
 
 ### File Manager
 - **Description:** A file manager console application in C++.
-- **File(s):** [file_manager](link/to/file_manager)
+- **File(s):** [file_manager](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/C%2B%2B/File-Manager-CPP)
 
 ### Music Console Apps
 - **Description:** Console applications related to managing and playing music in C++.
-- **File(s):** [music_console_apps](link/to/music_console_apps)
+- **File(s):** [music_console_apps](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/C%2B%2B/My_Music_APP_CPP)
 
 ## EF (Entity Framework)
 
 ### Filter App
 - **Description:** An Entity Framework project focusing on filtering data from a database.
-- **File(s):** [filter_app](link/to/filter_app)
+- **File(s):** [filter_app](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/EntityFramework/EF_FilterApp)
 
 ### CarDB App
 - **Description:** An Entity Framework project for managing and storing car information in a database.
-- **File(s):** [cardb_app](link/to/cardb_app)
+- **File(s):** [cardb_app](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/EntityFramework/EF_CarDB)
 
 ## HTML/CSS
 
 ### CSS Background Tasks
 - **Description:** Tasks related to CSS background properties.
-- **File(s):** [css_background_tasks](link/to/css_background_tasks)
+- **File(s):** [css_background_tasks](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/HTML-CSS/CSS-Background)
 
 ### HTML Clock Task
 - **Description:** Creation of an HTML clock using CSS.
-- **File(s):** [html_clock_task](link/to/html_clock_task)
+- **File(s):** [html_clock_task](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/HTML-CSS/HTML-Clock)
 
 ### Creating Table in HTML Task
 - **Description:** Task involving the creation of tables in HTML.
-- **File(s):** [html_table_task](link/to/html_table_task)
+- **File(s):** [html_table_task](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/HTML-CSS/HTML-Table)
 
 ### Other HTML/CSS Tasks
 - **Description:** Various HTML/CSS tasks.
-- **File(s):** [other_html_css_tasks](link/to/other_html_css_tasks)
+- **File(s):** [other_html_css_tasks](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/HTML-CSS/HTML-Tasks)
 
 ## JavaScript
 
 ### GitHub Profile Info App
 - **Description:** A JavaScript application fetching information from a GitHub profile via API.
-- **File(s):** [github_profile_info_app](link/to/github_profile_info_app)
+- **File(s):** [github_profile_info_app](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/JS/GitHub-API)
 
 ### JavaScript Events and Other Tasks
 - **Description:** Tasks involving JavaScript events and other miscellaneous JavaScript tasks.
-- **File(s):** [js_events_and_other_tasks](link/to/js_events_and_other_tasks)
+- **File(s):** [js_events_and_other_tasks](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/JS/JS-Events)
 
-## SQL
+## MS-SQL
 
 ### SQL Requests
 - **Description:** Different SQL requests using clauses and statements, including joins.
-- **File(s):** [sql_requests](link/to/sql_requests)
+- **File(s):** [sql_requests](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/MS_SQL)
 
 ## Network Programming
 
 ### HTTP Client-Server Task
 - **Description:** A task involving HTTP client-server communication.
-- **File(s):** [http_client_server_task](link/to/http_client_server_task)
+- **File(s):** [http_client_server_task](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/Network-Programming/HttpClientServer)
 
 ### Other Network Programming Tasks
 - **Description:** Various network programming tasks.
-- **File(s):** [other_network_programming_tasks](link/to/other_network_programming_tasks)
+- **File(s):** [other_network_programming_tasks](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/Network-Programming/HttpMethod)
 
 ## React
 
 ### Checklist App Using React
 - **Description:** A React application for creating checklists.
-- **File(s):** [react_checklist_app](link/to/react_checklist_app)
+- **File(s):** [react_checklist_app](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/React/Create_React_From_Scratch)
 
 ## System Programming
 
 ### Encryptor
 - **Description:** System programming task involving encryption.
-- **File(s):** [encryptor](link/to/encryptor)
+- **File(s):** [encryptor](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/System-Programming/Encryptor)
 
 ### File Copier
 - **Description:** System programming task for copying files.
-- **File(s):** [file_copier](link/to/file_copier)
+- **File(s):** [file_copier](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/System-Programming/FileCopier)
 
 ### Screenshot App
 - **Description:** System programming task for capturing screenshots.
-- **File(s):** [screenshot_app](link/to/screenshot_app)
+- **File(s):** [screenshot_app](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/System-Programming/Screenshot-APP)
 
 ### Task Manager
 - **Description:** System programming task involving a task manager.
-- **File(s):** [task_manager](link/to/task_manager)
+- **File(s):** [task_manager](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/System-Programming/TaskManager)
 
 ### Threads Semaphore
 - **Description:** System programming task involving threads and semaphores.
-- **File(s):** [threads_semaphore](link/to/threads_semaphore)
+- **File(s):** [threads_semaphore](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/System-Programming/Threads_Semaphore)
 
 ## WinForms/WPF
 
 ### BestOil App
 - **Description:** An application to manage the cashier desk for a gas station.
-- **File(s):** [bestoil_app](link/to/bestoil_app)
+- **File(s):** [bestoil_app](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/WinForms-WPF/BestOil_App)
 
 ### Calculator WPF
 - **Description:** WPF-based calculator application.
-- **File(s):** [calculator_wpf](link/to/calculator_wpf)
+- **File(s):** [calculator_wpf](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/WinForms-WPF/CalculatorWPF)
 
 ### Calculator WinForms
 - **Description:** WinForms-based calculator application.
-- **File(s):** [calculator_winforms](link/to/calculator_winforms)
-
+- **File(s):** [calculator_winforms](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/WinForms-WPF/Calculator_WinForms)
+  
 ### ColorPicker WinForms
 - **Description:** WinForms-based color picker application.
-- **File(s):** [colorpicker_winforms](link/to/colorpicker_winforms)
+- **File(s):** [colorpicker_winforms](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/WinForms-WPF/ColorPicker-WinForms)
 
 ### Notepad WinForms
 - **Description:** WinForms-based notepad application.
-- **File(s):** [notepad_winforms](link/to/notepad_winforms)
+- **File(s):** [notepad_winforms](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/WinForms-WPF/Notepad-WinForms)
 
 ### Ware House App
 - **Description:** Application for managing a warehouse.
-- **File(s):** [ware_house_app](link/to/ware_house_app)
+- **File(s):** [ware_house_app](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/WinForms-WPF/Ware_House_App)
 
 ### Other WinForms/WPF Tasks
 - **Description:** Various WinForms/WPF tasks.
-- **File(s):** [other_winforms_wpf_tasks](link/to/other_winforms_wpf_tasks)
+- **File(s):** [other_winforms_wpf_tasks](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/WinForms-WPF/WinForms_Tasks)
 
 ## Usage
 Feel free to explore each project by navigating to its respective directory. Each project folder contains its source code, documentation, and any additional resources.
