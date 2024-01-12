@@ -93,7 +93,7 @@ Welcome to my GitHub repository! This repository contains various homework assig
 
 ### Checklist App Using React
 - **Description:** A React application for creating checklists.
-- **File(s):** [react_checklist_app](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/React/Create_React_From_Scratch)
+- **File(s):** [react_checklist_app](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/React/Routing_React)
 
 ## System Programming
 
