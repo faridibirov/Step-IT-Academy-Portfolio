@@ -6,7 +6,7 @@ Welcome to my GitHub repository! This repository contains various homework assig
 
 ### Dependency Injection Homework
 - Description: This project focuses on understanding and implementing Dependency Injection in ASP.NET.
-
+- **File(s):** [dependency_injection](https://github.com/faridibirov/Step-IT-Academy-Portfolio/tree/ASP/ASP-Dependency-Injection)
 ### Minimal API Project
 - **Description:** A project demonstrating the creation of a Minimal API in ASP.NET.
 - **File(s):** [minimal_api_project](https://github.com/faridibirov/ITStep-Academy/tree/ASP/Minimal%20API)
